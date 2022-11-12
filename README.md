@@ -1,1 +1,2 @@
-# Use-Your-Brain-To-Gamble
+- Statistical analysis of data on the biance exchange
+- Moduls Machinelearning
